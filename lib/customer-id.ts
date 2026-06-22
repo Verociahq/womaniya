@@ -1,0 +1,1 @@
+export function generateCustomerId(n:number){return `WM25${String(n).padStart(4,'0')}`;}
