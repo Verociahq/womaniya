@@ -1,0 +1,1 @@
+export default function Hero(){return <section><h1>Womaniya</h1></section>}
