@@ -1,1 +1,1 @@
-export default function Page(){return <div>Gallery Page</div>}
+export default function GalleryPage(){return <main><h1>Gallery</h1></main>}
