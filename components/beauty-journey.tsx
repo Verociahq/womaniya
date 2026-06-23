@@ -1,0 +1,1 @@
+export default function BeautyJourney(){return <section>Beauty Confidence Transformation</section>}
