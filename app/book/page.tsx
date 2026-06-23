@@ -1,1 +1,1 @@
-export default function BookPage(){return <main><h1>Book Appointment</h1></main>}
+export default function Page(){return <div>Book Appointment</div>}
