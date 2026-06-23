@@ -1,1 +1,1 @@
-export default function Footer(){return <footer>© THE WOMANIYA</footer>}
+export default function Footer(){return <footer>Beauty • Confidence • Transformation</footer>}
