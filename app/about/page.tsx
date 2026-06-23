@@ -1,1 +1,1 @@
-export default function AboutPage(){return <main><h1>About Womaniya</h1><p>Premium salon experience.</p></main>}
+export default function Page(){return <div>About WOMANIYA</div>}
