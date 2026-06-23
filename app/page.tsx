@@ -1,1 +1,1 @@
-export default function HomePage(){return <main><h1>THE WOMANIYA PREMIUM SALON</h1><p>Luxury Hair, Skin, Nails & Beauty Transformations in Indore</p></main>}
+export default function Page(){return <main><h1>THE WOMANIYA PREMIUM SALON</h1><p>Luxury Hair, Skin, Nails & Beauty Transformations in Indore</p></main>}
