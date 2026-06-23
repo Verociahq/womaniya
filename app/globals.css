@@ -1,5 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body{margin:0;padding:0;}
+:root{--rose-gold:#D8A3A3;--luxury-pink:#FF6BAA;--ivory:#FFF9F7;--champagne:#F6E6D3;--dark:#231F20;} body{background:var(--ivory);}
