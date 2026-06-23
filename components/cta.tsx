@@ -1,0 +1,1 @@
+export default function CTA(){return <section>Book Now</section>}
